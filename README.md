@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hatran05 call me Ha else Erika ~
 - 👀 I’m interested in everything data, creating neat, beautiful dashboards, sipping tea whilst judging people on social media and having a long nap :)
-- 🌱 I’m currently learning deep learning, web scraping, NLP algorithms.
-- 💞️ I’m looking to collaborate on web scraping, NLP projects and visualisation projects.
+- 🌱 I’m currently learning elk stack, python with apache kafka, machine learning, deep learning, web scraping & NLP algorithms.
 - 📫 Reach me via email erika.ha.tran@gmail.com and linkedin.com/in/haktran/
 
 <!---
